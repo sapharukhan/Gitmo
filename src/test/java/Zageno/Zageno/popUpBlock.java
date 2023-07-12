@@ -28,6 +28,7 @@ public class popUpBlock {
 	driver.manage().window().maximize();
 	
 	System.out.println(driver.getTitle());
+	System.out.println(driver.getTitle());
 	
 	// Landing page
 	
